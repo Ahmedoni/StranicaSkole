@@ -1,0 +1,27 @@
+body{
+    background-color: darkcyan;
+    text-align: center;
+    vertical-align: middle;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+}
+os{
+    font-size: larger
+}
+button{
+    background-color: blueviolet;
+    border-width: 5px;
+    border-color: blueviolet;
+    font-size: medium;
+    vertical-align: top;
+}
+button:hover{
+    background-color: darkcyan;
+    border-width: 5px;
+    border-color: blueviolet;
+    font-size: medium;
+    vertical-align: top;
+}
+#but{
+    text-align: right;
+}
