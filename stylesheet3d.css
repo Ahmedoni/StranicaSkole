@@ -24,3 +24,15 @@ button:hover{
 #but{
     text-align: right;
 }
+#footer{
+    vertical-align: baseline;
+    background-color: #181818;
+    color: #838383;
+    font-size: small;
+    margin-bottom: 0px;
+    border-bottom: 5px;
+    border-color: #181818;
+}
+#footer a{
+    color: #f58634;
+}
